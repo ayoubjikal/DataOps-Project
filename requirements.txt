@@ -4,3 +4,4 @@ requests
 snowflake-connector-python
 dbt-core
 dbt-snowflake
+apache-airflow-providers-amazon>=8.0.0
