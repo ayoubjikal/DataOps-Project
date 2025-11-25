@@ -10,4 +10,4 @@ webserver_config.py
 airflow.cfg
 airflow.db
 TODO.md
-dag/SQL/creation.sql
+dags/SQL/creation.sql
